@@ -151,6 +151,12 @@ The project includes a Databricks dashboard covering:
 - Top Sellers by Sales
 - Late Delivery Performance by State
 
+## Dashboard Preview
+
+![Olist Dashboard - Part 1](dashboard/olist_dashboard_1.png)
+
+![Olist Dashboard - Part 2](dashboard/olist_dashboard_2.png)
+
 ---
 
 ## SQL Analysis
