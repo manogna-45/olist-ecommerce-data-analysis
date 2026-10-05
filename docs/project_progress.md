@@ -108,7 +108,65 @@ Status: In Progress
 
 
 
-To be updated during the project.
+\- Total orders: 99,441
+
+\- Delivered orders: 96,478
+
+\- Delivered order rate: 97.02%
+
+\- Non-delivered orders: 2,963 (2.98%)
+
+
+
+\- Highest monthly order volume: November 2017 with 7,544 orders
+
+\- Lowest monthly order volume: October 2016 with 1 order
+
+\- The very low order count in the earliest period may reflect limited dataset coverage, so it should not be treated as a meaningful business decline.
+
+
+
+\- Non-delivered order breakdown:
+
+&#x20; - Shipped: 1,107
+
+&#x20; - Canceled: 625
+
+&#x20; - Unavailable: 609
+
+&#x20; - Invoiced: 314
+
+&#x20; - Processing: 301
+
+&#x20; - Created: 5
+
+&#x20; - Approved: 2
+
+\- Canceled and unavailable orders together accounted for 1,234 orders (41.7% of non-delivered orders).
+
+\- Shipped orders were the largest non-delivered status with 1,107 orders.
+
+
+
+\- Total product sales value: R$13,591,643.70
+
+\- Average order-item price: R$120.65
+
+\- Minimum order-item price: R$0.85
+
+\- Maximum order-item price: R$6,735.00
+
+\- Product prices show a wide range, so average price should be interpreted alongside product/category-level analysis.
+
+
+
+\- Top product category by sales value: beleza\_saude — R$1,258,681.34
+
+\- Second-highest category: relogios\_presentes — R$1,205,005.68
+
+\- Third-highest category: cama\_mesa\_banho — R$1,036,988.68
+
+\- Product category analysis revealed R$179,535.28 in sales associated with missing product categories.
 
 
 
